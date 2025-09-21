@@ -1,1 +1,1 @@
-txtfile.lua is the text file
+txtfile.lua is the file with the code
