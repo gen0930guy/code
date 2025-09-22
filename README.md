@@ -1,1 +1,1 @@
-txtfile.lua is the file with the code
+txtfile.lua is the file with the code!! IVE SPENT SO MUCH TIME UPODATING THIS I NMnnbbbbbbbbbbbajkajjnnnnknknkjnnknknkjnkjnjknjknkjnaem peasle accept me this code looked so cheeks when i first wroted it
