@@ -1,4 +1,4 @@
--- note: i like spacing out code because it makes it easier for me tooo read 
+-- note: i like spacing out code because it makes it easier for me to read 
 -- cameleatingcactus.gif
 
 -- =============================================================================
@@ -345,4 +345,5 @@ end)
 -- =============================================================================
 
 -- im sleep deprived ❤️❤️ please hiddendevs i need this my balance is at 0 and i live with 2 avatar accessories...
+
 
